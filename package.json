@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run test",
     "start": "node index.js",
-    "debug": "DEBUG=pan.mcloudhub.com:* node index.js"
+    "DEBUG": "DEBUG=pan.mcloudhub.com:* node index.js"
   },
   "repository": {
     "type": "git",
